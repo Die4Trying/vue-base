@@ -1,4 +1,4 @@
-# vue-base
+# vue3-base
 vue3-base-project
 
 # Included libraries
