@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+/*Tailwind directives https://tailwindcss.com/docs/functions-and-directives#utility-directive*/
+
+@theme {
+    /*customize tailwind here*/
+}
+
+/*@utility {}*/

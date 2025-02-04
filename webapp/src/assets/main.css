@@ -1,0 +1,15 @@
+@import './base.css';
+@import './tailwind.css';
+
+#app {
+  display: flex;
+  width: 100dvw;
+  height: 100dvh;
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+}
